@@ -363,7 +363,7 @@
 .rectangle-parent {
   cursor: pointer;
   border: 0;
-  padding: 0.875rem 2.25rem var(--padding-3xl);
+  padding: 1.1rem 2.25rem;
   background-color: var(--color-darkslategray);
   border-radius: var(--br-6xs);
   justify-content: flex-start;

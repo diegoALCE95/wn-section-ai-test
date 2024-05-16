@@ -3,6 +3,14 @@ body {
   line-height: normal;
 }
 
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
 :root {
   /* fonts */
   --font-poppins: Poppins;
